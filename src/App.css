@@ -1,0 +1,66 @@
+.todo-container{
+  background: #2b2e39;
+      margin: 0 auto;
+      width: 80%;
+      max-width: 600px;
+      padding: 14px;
+      border: 1px solid #fff;
+      border-radius: 14px;
+      margin-top: 34px;
+}
+
+.App-container-pt-4 {
+      background: #2b2e39;
+      margin: 0 auto;
+      width: 80%;
+      max-width: 600px;
+      padding: 14px;
+      border-radius: 14px;
+      border: 10px solid rgb(35, 38, 50);
+      margin-top: 14px;
+}
+
+
+ul{
+  margin: 0;
+  padding: 0;
+  padding-left: 0rem;
+  padding-bottom: 1rem;
+}
+li{
+    list-style: none;
+    margin: 0;
+}
+
+.done{
+  text-decoration: line-through;
+}
+
+.not-done, .done{
+  margin: 0;
+  padding-left: 1.5rem;
+
+}
+
+.btn-succ {
+  width: 100%;
+  background-color: #84f14e;
+  color: #fff;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  vertical-align: center;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.header-text {
+  text-align: center;
+  font-weight: bold;
+}

@@ -1,0 +1,20 @@
+
+
+.btn-x {
+    width: 30%;
+    color: #fff;
+    background-color: #f14e4e;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: center;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: color .15s ease-in-out;
+
+}
