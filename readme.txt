@@ -1,1 +1,0 @@
-React.js project made to train making todo app with local Json server.
